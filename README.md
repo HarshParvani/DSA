@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 4
+- **Total Problems Solved:** 5
 - **Easy:** 2 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2014413751/) | 🟢 Easy | cpp | 2026-05-27 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | 🟢 Easy | cpp | 2026-05-26 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 
