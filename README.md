@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
-- **Easy:** 4 🟢
+- **Total Problems Solved:** 9
+- **Easy:** 5 🟢
 - **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/2016210440/) | 🟢 Easy | cpp | 2026-05-29 |
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2016211970/) | 🟢 Easy | cpp | 2026-05-29 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2014413751/) | 🟢 Easy | cpp | 2026-05-27 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | 🟢 Easy | cpp | 2026-05-26 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2016208037/) | 🟢 Easy | cpp | 2026-05-29 |
