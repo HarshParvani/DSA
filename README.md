@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
+- **Total Problems Solved:** 12
 - **Easy:** 5 🟢
-- **Medium:** 6 🟡
+- **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | 🟢 Easy | cpp | 2026-05-26 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2016208037/) | 🟢 Easy | cpp | 2026-05-29 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2016229226/) | 🟡 Medium | cpp | 2026-05-29 |
+| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2016272486/) | 🟡 Medium | cpp | 2026-05-29 |
