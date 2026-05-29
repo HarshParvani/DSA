@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
+- **Total Problems Solved:** 11
 - **Easy:** 5 🟢
-- **Medium:** 5 🟡
+- **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2016229226/) | 🟡 Medium | cpp | 2026-05-29 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2016272486/) | 🟡 Medium | cpp | 2026-05-29 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2015349080/) | 🟡 Medium | cpp | 2026-05-28 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 
