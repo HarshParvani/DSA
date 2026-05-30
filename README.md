@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
+- **Total Problems Solved:** 16
 - **Easy:** 7 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2016272486/) | 🟡 Medium | cpp | 2026-05-29 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2015349080/) | 🟡 Medium | cpp | 2026-05-28 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2017118975/) | 🟡 Medium | cpp | 2026-05-30 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 
 ---
