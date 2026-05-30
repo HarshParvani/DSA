@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
+- **Total Problems Solved:** 18
 - **Easy:** 7 🟢
 - **Medium:** 10 🟡
-- **Hard:** 0 🔴
+- **Hard:** 1 🔴
 
 ## 📝 Problems
 
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2017118975/) | 🟡 Medium | cpp | 2026-05-30 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2017142179/) | 🔴 Hard | cpp | 2026-05-30 |
 
 ---
 
