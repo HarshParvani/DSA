@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 18
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 19
+- **Easy:** 8 🟢
 - **Medium:** 10 🟡
 - **Hard:** 1 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/2017550970/) | 🟢 Easy | cpp | 2026-05-30 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/2016210440/) | 🟢 Easy | cpp | 2026-05-29 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2016211970/) | 🟢 Easy | cpp | 2026-05-29 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | cpp | 2026-05-30 |
