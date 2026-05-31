@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 8 🟢
 - **Medium:** 11 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2017118975/) | 🟡 Medium | cpp | 2026-05-30 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2017142179/) | 🔴 Hard | cpp | 2026-05-30 |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/2017962986/) | 🔴 Hard | cpp | 2026-05-31 |
 
 ---
 
