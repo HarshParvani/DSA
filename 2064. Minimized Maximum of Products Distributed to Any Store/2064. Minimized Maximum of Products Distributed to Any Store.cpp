@@ -1,7 +1,7 @@
 /*
  * Problem: 2064. Minimized Maximum of Products Distributed to Any Store
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/submissions/2018980550/
+ * Link: https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/
  * Language: cpp
  * Date: 2026-06-01
  */
