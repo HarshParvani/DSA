@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 36
 - **Easy:** 11 🟢
-- **Medium:** 21 🟡
+- **Medium:** 22 🟡
 - **Hard:** 3 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | 🟡 Medium | cpp | 2026-06-01 |
+| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2019999139/) | 🟡 Medium | cpp | 2026-06-02 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2019925472/) | 🟡 Medium | cpp | 2026-06-02 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2019942276/) | 🟡 Medium | cpp | 2026-06-02 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
