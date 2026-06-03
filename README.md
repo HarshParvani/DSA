@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Easy:** 11 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2015349080/) | 🟡 Medium | cpp | 2026-05-28 |
 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/submissions/2020032439/) | 🟡 Medium | cpp | 2026-06-02 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2019889996/) | 🟡 Medium | cpp | 2026-06-02 |
+| [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/2021114215/) | 🟡 Medium | cpp | 2026-06-03 |
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/submissions/2018851813/) | 🟡 Medium | cpp | 2026-06-01 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2018953418/) | 🟡 Medium | cpp | 2026-06-01 |
