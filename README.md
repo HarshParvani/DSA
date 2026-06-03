@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Easy:** 11 🟢
 - **Medium:** 24 🟡
-- **Hard:** 5 🔴
+- **Hard:** 6 🔴
 
 ## 📝 Problems
 
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2020047947/) | 🔴 Hard | cpp | 2026-06-02 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021003101/) | 🔴 Hard | cpp | 2026-06-03 |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021077738/) | 🔴 Hard | cpp | 2026-06-03 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2017142179/) | 🔴 Hard | cpp | 2026-05-30 |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/2017962986/) | 🔴 Hard | cpp | 2026-05-31 |
 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/2018031989/) | 🔴 Hard | cpp | 2026-05-31 |
