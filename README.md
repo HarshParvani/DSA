@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Easy:** 11 🟢
-- **Medium:** 24 🟡
+- **Medium:** 25 🟡
 - **Hard:** 6 🔴
 
 ## 📝 Problems
@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2018891142/) | 🟡 Medium | cpp | 2026-06-01 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2018891142/) | 🟡 Medium | cpp | 2026-06-01 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2017118975/) | 🟡 Medium | cpp | 2026-05-30 |
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2021096851/) | 🟡 Medium | cpp | 2026-06-03 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2020047947/) | 🔴 Hard | cpp | 2026-06-02 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021003101/) | 🔴 Hard | cpp | 2026-06-03 |
