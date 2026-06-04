@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
+- **Total Problems Solved:** 47
 - **Easy:** 11 🟢
-- **Medium:** 28 🟡
+- **Medium:** 29 🟡
 - **Hard:** 7 🔴
 
 ## 📝 Problems
@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022107933/) | 🟡 Medium | cpp | 2026-06-04 |
 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/submissions/2020032439/) | 🟡 Medium | cpp | 2026-06-02 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2019889996/) | 🟡 Medium | cpp | 2026-06-02 |
+| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/submissions/2022169477/) | 🟡 Medium | cpp | 2026-06-04 |
 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/2021114215/) | 🟡 Medium | cpp | 2026-06-03 |
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/submissions/2018851813/) | 🟡 Medium | cpp | 2026-06-01 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
