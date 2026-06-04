@@ -1,7 +1,7 @@
 /*
  * Problem: 2181. Merge Nodes in Between Zeros
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022060701/
+ * Link: https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022107933/
  * Language: cpp
  * Date: 2026-06-04
  */
@@ -9,27 +9,25 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* modify = head->next;
-        ListNode* temp = head->next;
 
+        ListNode dummy(0);
+        ListNode* ptr = &dummy;
+
+        head = head->next;   // skip first zero
         int sum = 0;
 
-        while (temp) {
-            if (temp->val != 0) {
-                sum += temp->val;
-            } else {
-                modify->val = sum;
+        while (head) {
+            if (head->val == 0) {
+                ptr->next = new ListNode(sum);
+                ptr = ptr->next;
                 sum = 0;
-
-                if (temp->next) {
-                    modify->next = temp->next;
-                    modify = modify->next;
-                }
+            } else {
+                sum += head->val;
             }
-            temp = temp->next;
+
+            head = head->next;
         }
 
-        modify->next = nullptr;
-        return head->next;
+        return dummy.next;
     }
 };
