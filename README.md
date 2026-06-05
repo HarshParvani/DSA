@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Easy:** 12 🟢
 - **Medium:** 31 🟡
-- **Hard:** 9 🔴
+- **Hard:** 10 🔴
 
 ## 📝 Problems
 
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021077738/) | 🔴 Hard | cpp | 2026-06-03 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2017142179/) | 🔴 Hard | cpp | 2026-05-30 |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/2017962986/) | 🔴 Hard | cpp | 2026-05-31 |
+| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2023148393/) | 🔴 Hard | cpp | 2026-06-05 |
 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/2018031989/) | 🔴 Hard | cpp | 2026-05-31 |
 
 ---
