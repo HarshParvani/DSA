@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 49
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 50
+- **Easy:** 12 🟢
 - **Medium:** 30 🟡
 - **Hard:** 8 🔴
 
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | 🟢 Easy | cpp | 2026-05-26 |
 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/submissions/2019953261/) | 🟢 Easy | cpp | 2026-06-02 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/2017105095/) | 🟢 Easy | cpp | 2026-05-30 |
+| [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | cpp | 2026-06-05 |
 | [561. Array Partition](https://leetcode.com/problems/array-partition/submissions/2019901786/) | 🟢 Easy | cpp | 2026-06-02 |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2016208037/) | 🟢 Easy | cpp | 2026-05-29 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2016229226/) | 🟡 Medium | cpp | 2026-05-29 |
