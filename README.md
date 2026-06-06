@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 57
+- **Total Problems Solved:** 58
 - **Easy:** 13 🟢
-- **Medium:** 32 🟡
+- **Medium:** 33 🟡
 - **Hard:** 12 🔴
 
 ## 📝 Problems
@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2018891142/) | 🟡 Medium | cpp | 2026-06-01 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/2017118975/) | 🟡 Medium | cpp | 2026-05-30 |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2021096851/) | 🟡 Medium | cpp | 2026-06-03 |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | cpp | 2026-06-06 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2023039632/) | 🔴 Hard | cpp | 2026-06-05 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/2024023892/) | 🔴 Hard | cpp | 2026-06-06 |
