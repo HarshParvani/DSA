@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 56
 - **Easy:** 12 🟢
 - **Medium:** 32 🟡
-- **Hard:** 11 🔴
+- **Hard:** 12 🔴
 
 ## 📝 Problems
 
@@ -58,6 +58,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/2021096851/) | 🟡 Medium | cpp | 2026-06-03 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2023039632/) | 🔴 Hard | cpp | 2026-06-05 |
+| [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/2024023892/) | 🔴 Hard | cpp | 2026-06-06 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2022131156/) | 🔴 Hard | cpp | 2026-06-04 |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2020047947/) | 🔴 Hard | cpp | 2026-06-02 |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/submissions/2023116742/) | 🔴 Hard | cpp | 2026-06-05 |
