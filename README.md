@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 61
+- **Total Problems Solved:** 62
 - **Easy:** 14 🟢
-- **Medium:** 35 🟡
+- **Medium:** 36 🟡
 - **Hard:** 12 🔴
 
 ## 📝 Problems
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2016229226/) | 🟡 Medium | cpp | 2026-05-29 |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | cpp | 2026-06-08 |
+| [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2026114625/) | 🟡 Medium | cpp | 2026-06-08 |
 | [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/2023056432/) | 🟡 Medium | cpp | 2026-06-05 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | 🟡 Medium | cpp | 2026-06-01 |
