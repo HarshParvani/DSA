@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 64
+- **Total Problems Solved:** 65
 - **Easy:** 14 🟢
-- **Medium:** 38 🟡
+- **Medium:** 39 🟡
 - **Hard:** 12 🔴
 
 ## 📝 Problems
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 Medium | cpp | 2026-06-08 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | cpp | 2026-06-08 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2026114625/) | 🟡 Medium | cpp | 2026-06-08 |
+| [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
 | [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/2023056432/) | 🟡 Medium | cpp | 2026-06-05 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
