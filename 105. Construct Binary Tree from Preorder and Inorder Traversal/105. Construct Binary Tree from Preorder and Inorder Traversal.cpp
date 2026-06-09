@@ -1,7 +1,7 @@
 /*
  * Problem: 105. Construct Binary Tree from Preorder and Inorder Traversal
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2027336470/
+ * Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
  * Language: cpp
  * Date: 2026-06-09
  */
