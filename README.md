@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 69
+- **Total Problems Solved:** 70
 - **Easy:** 14 🟢
-- **Medium:** 42 🟡
+- **Medium:** 43 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 Medium | cpp | 2026-06-08 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2027336470/) | 🟡 Medium | cpp | 2026-06-09 |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | cpp | 2026-06-09 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | cpp | 2026-06-08 |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2026114625/) | 🟡 Medium | cpp | 2026-06-08 |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
