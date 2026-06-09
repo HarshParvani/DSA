@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 70
+- **Total Problems Solved:** 71
 - **Easy:** 14 🟢
 - **Medium:** 43 🟡
-- **Hard:** 13 🔴
+- **Hard:** 14 🔴
 
 ## 📝 Problems
 
@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/2026078844/) | 🟡 Medium | cpp | 2026-06-08 |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | cpp | 2026-06-06 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/2027367656/) | 🔴 Hard | cpp | 2026-06-09 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2023039632/) | 🔴 Hard | cpp | 2026-06-05 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/2024023892/) | 🔴 Hard | cpp | 2026-06-06 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2022131156/) | 🔴 Hard | cpp | 2026-06-04 |
