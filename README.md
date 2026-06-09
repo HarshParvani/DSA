@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 67
+- **Total Problems Solved:** 68
 - **Easy:** 14 🟢
-- **Medium:** 40 🟡
+- **Medium:** 41 🟡
 - **Hard:** 13 🔴
 
 ## 📝 Problems
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
 | [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/2023056432/) | 🟡 Medium | cpp | 2026-06-05 |
+| [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | 🟡 Medium | cpp | 2026-06-09 |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2015281548/) | 🟡 Medium | cpp | 2026-05-28 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2019999139/) | 🟡 Medium | cpp | 2026-06-02 |
