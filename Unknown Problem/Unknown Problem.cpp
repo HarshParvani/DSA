@@ -1,68 +1,85 @@
 /*
  * Problem: Unknown Problem
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/
+ * Link: https://leetcode.com/problems/merge-bsts-to-create-single-bst/submissions/2027380907/
  * Language: cpp
- * Date: 2026-05-26
+ * Date: 2026-06-09
  */
 
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
 
-    // Reverse linked list
-    ListNode* reverse(ListNode* head) {
+    unordered_map<int, TreeNode*> roots;
 
-        ListNode* prev = NULL;
-        ListNode* curr = head;
+    bool dfs(TreeNode* root,long mn,long mx) {
 
-        while(curr != NULL) {
+        if(!root) return true;
 
-            ListNode* forward = curr->next;
+        if(root->val <= mn || root->val >= mx)
+            return false;
 
-            curr->next = prev;
+        if(!root->left &&
+           !root->right &&
+           roots.count(root->val)) {
 
-            prev = curr;
-            curr = forward;
+            TreeNode* mergeNode = roots[root->val];
+
+            roots.erase(root->val);
+
+            root->left = mergeNode->left;
+            root->right = mergeNode->right;
         }
 
-        return prev;
+        return dfs(root->left,mn,root->val) &&
+               dfs(root->right,root->val,mx);
     }
 
-    bool isPalindrome(ListNode* head) {
+    TreeNode* canMerge(vector<TreeNode*>& trees) {
 
-        // Single node
-        if(head == NULL || head->next == NULL) {
-            return true;
+        unordered_map<int,int> freq;
+
+        for(auto root : trees) {
+
+            roots[root->val] = root;
+
+            if(root->left)
+                freq[root->left->val]++;
+
+            if(root->right)
+                freq[root->right->val]++;
         }
 
-        // Find middle
-        ListNode* slow = head;
-        ListNode* fast = head;
+        TreeNode* start = nullptr;
 
-        while(fast->next != NULL &&
-              fast->next->next != NULL) {
+        for(auto root : trees) {
 
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        // Reverse second half
-        slow->next = reverse(slow->next);
-
-        // Compare halves
-        ListNode* first = head;
-        ListNode* second = slow->next;
-
-        while(second != NULL) {
-
-            if(first->val != second->val) {
-                return false;
+            if(freq[root->val] == 0) {
+                start = root;
+                break;
             }
-
-            first = first->next;
-            second = second->next;
         }
 
-        return true;
+        if(!start) return nullptr;
+
+        roots.erase(start->val);
+
+        if(!dfs(start,LONG_MIN,LONG_MAX))
+            return nullptr;
+
+        if(!roots.empty())
+            return nullptr;
+
+        return start;
     }
 };
