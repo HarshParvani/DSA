@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 66
+- **Total Problems Solved:** 67
 - **Easy:** 14 🟢
 - **Medium:** 40 🟡
-- **Hard:** 12 🔴
+- **Hard:** 13 🔴
 
 ## 📝 Problems
 
@@ -78,6 +78,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | cpp | 2026-06-06 |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/2017962986/) | 🔴 Hard | cpp | 2026-05-31 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2023148393/) | 🔴 Hard | cpp | 2026-06-05 |
+| [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/2027240289/) | 🔴 Hard | cpp | 2026-06-09 |
 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/2018031989/) | 🔴 Hard | cpp | 2026-05-31 |
 
 ---
