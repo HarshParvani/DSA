@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 74
+- **Total Problems Solved:** 75
 - **Easy:** 14 🟢
-- **Medium:** 46 🟡
+- **Medium:** 47 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/2016208037/) | 🟢 Easy | cpp | 2026-05-29 |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/submissions/2029492288/) | 🟡 Medium | cpp | 2026-06-11 |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/2016229226/) | 🟡 Medium | cpp | 2026-05-29 |
+| [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/2029561904/) | 🟡 Medium | cpp | 2026-06-11 |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 Medium | cpp | 2026-06-08 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2027336470/) | 🟡 Medium | cpp | 2026-06-09 |
