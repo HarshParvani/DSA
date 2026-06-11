@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 72
+- **Total Problems Solved:** 73
 - **Easy:** 14 🟢
-- **Medium:** 44 🟡
+- **Medium:** 45 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/submissions/2018851813/) | 🟡 Medium | cpp | 2026-06-01 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2018953418/) | 🟡 Medium | cpp | 2026-06-01 |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/submissions/2029463234/) | 🟡 Medium | cpp | 2026-06-11 |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/submissions/2023165409/) | 🟡 Medium | cpp | 2026-06-05 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2018891142/) | 🟡 Medium | cpp | 2026-06-01 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/2018891142/) | 🟡 Medium | cpp | 2026-06-01 |
