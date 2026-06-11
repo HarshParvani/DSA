@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 75
+- **Total Problems Solved:** 76
 - **Easy:** 14 🟢
-- **Medium:** 47 🟡
+- **Medium:** 48 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -48,6 +48,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2019942276/) | 🟡 Medium | cpp | 2026-06-02 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2016272486/) | 🟡 Medium | cpp | 2026-05-29 |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2029576952/) | 🟡 Medium | cpp | 2026-06-11 |
 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/submissions/2018980550/) | 🟡 Medium | cpp | 2026-06-01 |
 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/) | 🟡 Medium | cpp | 2026-06-01 |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2017940580/) | 🟡 Medium | cpp | 2026-05-31 |
