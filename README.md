@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 80
+- **Total Problems Solved:** 81
 - **Easy:** 16 🟢
-- **Medium:** 50 🟡
+- **Medium:** 51 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -61,6 +61,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022060701/) | 🟡 Medium | cpp | 2026-06-04 |
 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022107933/) | 🟡 Medium | cpp | 2026-06-04 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2026242182/) | 🟡 Medium | cpp | 2026-06-08 |
+| [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/submissions/) | 🟡 Medium | cpp | 2026-06-12 |
 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/submissions/2020032439/) | 🟡 Medium | cpp | 2026-06-02 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2019889996/) | 🟡 Medium | cpp | 2026-06-02 |
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/submissions/2022169477/) | 🟡 Medium | cpp | 2026-06-04 |
