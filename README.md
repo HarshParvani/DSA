@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 76
+- **Total Problems Solved:** 77
 - **Easy:** 14 🟢
-- **Medium:** 48 🟡
+- **Medium:** 49 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -51,6 +51,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2029576952/) | 🟡 Medium | cpp | 2026-06-11 |
 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/submissions/2018980550/) | 🟡 Medium | cpp | 2026-06-01 |
 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/) | 🟡 Medium | cpp | 2026-06-01 |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/submissions/2030575711/) | 🟡 Medium | cpp | 2026-06-12 |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2017940580/) | 🟡 Medium | cpp | 2026-05-31 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2017127094/) | 🟡 Medium | cpp | 2026-05-30 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2015349080/) | 🟡 Medium | cpp | 2026-05-28 |
