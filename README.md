@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
-- **Easy:** 15 🟢
+- **Total Problems Solved:** 80
+- **Easy:** 16 🟢
 - **Medium:** 50 🟡
 - **Hard:** 14 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2014413751/) | 🟢 Easy | cpp | 2026-05-27 |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/2018011925/) | 🟢 Easy | cpp | 2026-05-31 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | 🟢 Easy | cpp | 2026-05-26 |
+| [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/submissions/2030658361/) | 🟢 Easy | cpp | 2026-06-12 |
 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/submissions/2019953261/) | 🟢 Easy | cpp | 2026-06-02 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/2017105095/) | 🟢 Easy | cpp | 2026-05-30 |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | cpp | 2026-06-05 |
