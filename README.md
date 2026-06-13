@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 84
+- **Total Problems Solved:** 85
 - **Easy:** 17 🟢
-- **Medium:** 53 🟡
+- **Medium:** 54 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -52,6 +52,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2019925472/) | 🟡 Medium | cpp | 2026-06-02 |
 | [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2019942276/) | 🟡 Medium | cpp | 2026-06-02 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | cpp | 2026-05-26 |
+| [198. House Robber](https://leetcode.com/problems/house-robber/submissions/2031594121/) | 🟡 Medium | cpp | 2026-06-13 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2016272486/) | 🟡 Medium | cpp | 2026-05-29 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/2029576952/) | 🟡 Medium | cpp | 2026-06-11 |
 | [2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/submissions/2018980550/) | 🟡 Medium | cpp | 2026-06-01 |
