@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 83
+- **Total Problems Solved:** 84
 - **Easy:** 17 🟢
-- **Medium:** 52 🟡
+- **Medium:** 53 🟡
 - **Hard:** 14 🔴
 
 ## 📝 Problems
@@ -41,6 +41,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/2026114625/) | 🟡 Medium | cpp | 2026-06-08 |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2026182469/) | 🟡 Medium | cpp | 2026-06-08 |
+| [120. Triangle](https://leetcode.com/problems/triangle/submissions/2031561991/) | 🟡 Medium | cpp | 2026-06-13 |
 | [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/submissions/2031495574/) | 🟡 Medium | cpp | 2026-06-13 |
 | [132 Pattern](https://leetcode.com/problems/132-pattern/submissions/2023056432/) | 🟡 Medium | cpp | 2026-06-05 |
 | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | 🟡 Medium | cpp | 2026-06-09 |
