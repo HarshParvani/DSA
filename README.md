@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 90
-- **Easy:** 18 🟢
+- **Total Problems Solved:** 91
+- **Easy:** 19 🟢
 - **Medium:** 56 🟡
 - **Hard:** 16 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/2024057503/) | 🟢 Easy | cpp | 2026-06-06 |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/submissions/2024096266/) | 🟢 Easy | cpp | 2026-06-06 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2033615801/) | 🟢 Easy | cpp | 2026-06-15 |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | 🟢 Easy | cpp | 2026-06-15 |
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/2030653924/) | 🟢 Easy | cpp | 2026-06-12 |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/2016210440/) | 🟢 Easy | cpp | 2026-05-29 |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/2016211970/) | 🟢 Easy | cpp | 2026-05-29 |
