@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 88
+- **Total Problems Solved:** 89
 - **Easy:** 18 🟢
 - **Medium:** 56 🟡
-- **Hard:** 14 🔴
+- **Hard:** 15 🔴
 
 ## 📝 Problems
 
@@ -87,6 +87,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | cpp | 2026-06-06 |
 | [Unknown Problem](https://leetcode.com/problems/palindrome-linked-list/submissions/2013492792/) | 🟡 Medium | cpp | 2026-05-26 |
 | [Unknown Problem](https://leetcode.com/problems/merge-bsts-to-create-single-bst/submissions/2027380907/) | 🟡 Medium | cpp | 2026-06-09 |
+| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | cpp | 2026-06-15 |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/2027367656/) | 🔴 Hard | cpp | 2026-06-09 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2023039632/) | 🔴 Hard | cpp | 2026-06-05 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/2024023892/) | 🔴 Hard | cpp | 2026-06-06 |
