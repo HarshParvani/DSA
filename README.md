@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 91
+- **Total Problems Solved:** 92
 - **Easy:** 19 🟢
-- **Medium:** 56 🟡
+- **Medium:** 57 🟡
 - **Hard:** 16 🔴
 
 ## 📝 Problems
@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/submissions/) | 🟡 Medium | cpp | 2026-06-12 |
 | [2516. Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/submissions/2020032439/) | 🟡 Medium | cpp | 2026-06-02 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2019889996/) | 🟡 Medium | cpp | 2026-06-02 |
+| [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/submissions/2033803605/) | 🟡 Medium | cpp | 2026-06-15 |
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/submissions/2022169477/) | 🟡 Medium | cpp | 2026-06-04 |
 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/2021114215/) | 🟡 Medium | cpp | 2026-06-03 |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2023079093/) | 🟡 Medium | cpp | 2026-06-05 |
