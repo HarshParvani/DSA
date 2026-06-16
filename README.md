@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 93
+- **Total Problems Solved:** 94
 - **Easy:** 19 🟢
-- **Medium:** 58 🟡
+- **Medium:** 59 🟡
 - **Hard:** 16 🔴
 
 ## 📝 Problems
@@ -64,6 +64,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2017940580/) | 🟡 Medium | cpp | 2026-05-31 |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/2030585509/) | 🟡 Medium | cpp | 2026-06-12 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/2031626514/) | 🟡 Medium | cpp | 2026-06-13 |
+| [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/2034878675/) | 🟡 Medium | cpp | 2026-06-16 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/2017127094/) | 🟡 Medium | cpp | 2026-05-30 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2015349080/) | 🟡 Medium | cpp | 2026-05-28 |
 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2022060701/) | 🟡 Medium | cpp | 2026-06-04 |
