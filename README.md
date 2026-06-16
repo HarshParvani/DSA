@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 95
+- **Total Problems Solved:** 96
 - **Easy:** 19 🟢
 - **Medium:** 59 🟡
-- **Hard:** 17 🔴
+- **Hard:** 18 🔴
 
 ## 📝 Problems
 
@@ -99,6 +99,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2022131156/) | 🔴 Hard | cpp | 2026-06-04 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/submissions/2034908825/) | 🔴 Hard | cpp | 2026-06-16 |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2020047947/) | 🔴 Hard | cpp | 2026-06-02 |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/2034981855/) | 🔴 Hard | cpp | 2026-06-16 |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/submissions/2023116742/) | 🔴 Hard | cpp | 2026-06-05 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021003101/) | 🔴 Hard | cpp | 2026-06-03 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021077738/) | 🔴 Hard | cpp | 2026-06-03 |
