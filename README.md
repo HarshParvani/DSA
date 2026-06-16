@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 96
+- **Total Problems Solved:** 97
 - **Easy:** 19 🟢
 - **Medium:** 59 🟡
-- **Hard:** 18 🔴
+- **Hard:** 19 🔴
 
 ## 📝 Problems
 
@@ -105,6 +105,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2021077738/) | 🔴 Hard | cpp | 2026-06-03 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2017142179/) | 🔴 Hard | cpp | 2026-05-30 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | cpp | 2026-06-06 |
+| [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/submissions/2035003267/) | 🔴 Hard | cpp | 2026-06-16 |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/2017962986/) | 🔴 Hard | cpp | 2026-05-31 |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2023148393/) | 🔴 Hard | cpp | 2026-06-05 |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/2027240289/) | 🔴 Hard | cpp | 2026-06-09 |
