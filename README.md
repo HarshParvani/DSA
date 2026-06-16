@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 92
+- **Total Problems Solved:** 93
 - **Easy:** 19 🟢
-- **Medium:** 57 🟡
+- **Medium:** 58 🟡
 - **Hard:** 16 🔴
 
 ## 📝 Problems
@@ -75,6 +75,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/submissions/2033803605/) | 🟡 Medium | cpp | 2026-06-15 |
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/submissions/2022169477/) | 🟡 Medium | cpp | 2026-06-04 |
 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/2021114215/) | 🟡 Medium | cpp | 2026-06-03 |
+| [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/submissions/2034858297/) | 🟡 Medium | cpp | 2026-06-16 |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2023079093/) | 🟡 Medium | cpp | 2026-06-05 |
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/submissions/2018851813/) | 🟡 Medium | cpp | 2026-06-01 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/2017036871/) | 🟡 Medium | cpp | 2026-05-30 |
