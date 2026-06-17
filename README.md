@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 97
+- **Total Problems Solved:** 98
 - **Easy:** 19 🟢
 - **Medium:** 59 🟡
-- **Hard:** 19 🔴
+- **Hard:** 20 🔴
 
 ## 📝 Problems
 
@@ -96,6 +96,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | cpp | 2026-06-15 |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/submissions/2023039632/) | 🔴 Hard | cpp | 2026-06-05 |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/2024023892/) | 🔴 Hard | cpp | 2026-06-06 |
+| [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | 🔴 Hard | cpp | 2026-06-17 |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2022131156/) | 🔴 Hard | cpp | 2026-06-04 |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/submissions/2034908825/) | 🔴 Hard | cpp | 2026-06-16 |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2020047947/) | 🔴 Hard | cpp | 2026-06-02 |
