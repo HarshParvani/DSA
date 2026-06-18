@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 98
+- **Total Problems Solved:** 99
 - **Easy:** 19 🟢
-- **Medium:** 59 🟡
+- **Medium:** 60 🟡
 - **Hard:** 20 🔴
 
 ## 📝 Problems
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/submissions/2029561904/) | 🟡 Medium | cpp | 2026-06-11 |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2016277680/) | 🟡 Medium | cpp | 2026-05-29 |
 | [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 Medium | cpp | 2026-06-08 |
+| [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | 🟡 Medium | mysql | 2026-06-18 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/2027336470/) | 🟡 Medium | cpp | 2026-06-09 |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 Medium | cpp | 2026-06-09 |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 Medium | cpp | 2026-06-08 |
